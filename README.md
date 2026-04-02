@@ -1,7 +1,6 @@
 # Hi 👋, I'm Igor Alexandre
 
-### A passionate Css developer
-
+### IT Analyst transitioning to Data Science
 - 🔭 I'm currently working on **T.I Analyst **
 
 - 🌱 I'm currently learning **Data Science and Power BI analysis**
